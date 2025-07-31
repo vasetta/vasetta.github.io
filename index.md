@@ -1,2 +1,3 @@
 # Vasiṣṭhaputrasya
-Welcome, this is my website for my endeavours in coding applications.
+An empty website, apart from:
+[My bearblog.][https://drawingconclusions.bearblog.dev/]
